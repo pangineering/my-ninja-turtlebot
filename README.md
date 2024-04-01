@@ -15,8 +15,8 @@
 
 ## Roadmap
 
- -[] Control with Teleopkey
- -[] Robot Odometry 
+ - [ ] Control with Teleopkey
+ - [ ] Robot Odometry 
 
 
 ## Features
