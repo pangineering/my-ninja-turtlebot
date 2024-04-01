@@ -16,12 +16,20 @@
 ## Roadmap
 
  - [ ] Control with Teleopkey
- - [ ] Robot Odometry 
+ - [ ] Robot Odometry
+ - [ ] SLAM
+ - [ ] Navigation with Nav2
+ - [ ] Add Camera
+ - [ ] Add Object Detection
 
 
 ## Features
 
-- Navigation using nav2
+ - Control with Teleopkey
+ - Control with Joystick
+ - Create a Map
+ - SLAM
+ - Navigation using nav2
 
 ## Authors
 
