@@ -1,4 +1,8 @@
+
 # My Ninja Turtlebot
+
+## Tech Stack
+
 ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)
 
@@ -8,3 +12,24 @@
 ![ROS Badge](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+
+## Roadmap
+
+ -[] Control with Teleopkey
+ -[] Robot Odometry 
+
+
+## Features
+
+- Navigation using nav2
+
+## Authors
+
+- [@pangineering](https://www.github.com/pangineering)
+
+
+## Acknowledgements
+ 
+ - [ROS2 Course by Dr.Rawin](https://github.com/rawin-chandra/ros2_course)
+
+
